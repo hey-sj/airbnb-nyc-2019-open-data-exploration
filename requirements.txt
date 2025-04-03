@@ -1,0 +1,8 @@
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.6.2
+psycopg2==2.9.5
+python-dotenv==1.0.0
+plotly==5.11.0
+apache-airflow==2.6.0
+sqlalchemy==2.0.0
